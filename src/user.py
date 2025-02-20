@@ -6,10 +6,10 @@ from notion import NotionApi
 class User:
     def __init__(
         self,
-        canvasKey,
-        notionToken,
-        notionPageId,
-        schoolAb,
+        ckfDGEmJ6h8wGRWhKxD7MQyEfHvnaB4cQcFEaLt3Cew8YQB7cKwUZvzhAWvEyHJU,
+        ckfDGEmJ6h8wGRWhKxD7MQyEfHvnaB4cQcFEaLt3Cew8YQB7cKwUZvzhAWvEyHJU,
+        166833af6fd380f69ec9cabceb47207f,
+        mcpsmd,
         database_id=None,
     ):
         self.notionToken = notionToken
