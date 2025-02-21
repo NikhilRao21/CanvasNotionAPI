@@ -7,8 +7,8 @@ class User:
     def __init__(
         self,
         ckfDGEmJ6h8wGRWhKxD7MQyEfHvnaB4cQcFEaLt3Cew8YQB7cKwUZvzhAWvEyHJU,
-        ckfDGEmJ6h8wGRWhKxD7MQyEfHvnaB4cQcFEaLt3Cew8YQB7cKwUZvzhAWvEyHJU,
-        166833af6fd380f69ec9cabceb47207f,
+        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,
+        1a0833af6fd38099a1c6d4d41da9c53e,
         mcpsmd,
         database_id=None,
     ):
